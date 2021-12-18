@@ -36,3 +36,6 @@ C:\Users\Mkarlos\source\repos\editor\obj\Release\netcoreapp3.1\editor.dll
 C:\Users\Mkarlos\source\repos\editor\obj\Release\netcoreapp3.1\editor.pdb
 C:\Users\Mkarlos\source\repos\editor\obj\Release\netcoreapp3.1\editor.genruntimeconfig.cache
 C:\Users\Mkarlos\source\repos\editor\obj\Release\netcoreapp3.1\editor.csproj.CopyComplete
+C:\Users\Mkarlos\source\repos\editor\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\practice3-v1 - Web Deploy\profile.arm.json
+C:\Users\Mkarlos\source\repos\editor\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\practice3-v2 - Web Deploy\profile.arm.json
+C:\Users\Mkarlos\source\repos\editor\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\practice3-v3 - Web Deploy\profile.arm.json
